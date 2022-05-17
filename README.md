@@ -1,3 +1,9 @@
+- **博客：[https://lijianxun.top](https://lijianxun.top)**
+
+- **微信公众号：爱生活爱扣钉**
+
+- **从出生就在用的机场：[卡车🚀](https://kcssr.app/auth/register?code=jUqG)**
+
 ![](https://s2.loli.net/2022/04/30/tHkiOFDYy18ISo2.jpg)
 
 <!--
