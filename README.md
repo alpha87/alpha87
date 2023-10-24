@@ -1,1 +1,1 @@
-![](https://yys.res.netease.com/pc/zt/20230421141009/data/picture/20180928/3/2208x1242.jpg)
+![](https://raw.githubusercontent.com/alpha87/awesome-readme/cace62ccb9365b2e739d5806286c2be6638db72e/2208x1242.jpg)
