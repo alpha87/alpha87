@@ -4,9 +4,9 @@
 
 正在尝试各种副业，目前有做 [红包封面商城](https://shop1762101065.v.weidian.com/?userid=1762101065)。
 
-如果你也有许多有趣的副业思路，可以和我一起分享。[通过 TG 联系我](https://t.me/zdcgbkjyfrewfg)。
-
 想要零成本一起参与的可以看这篇文章：[如何利用红包封面打造副业？](https://mp.weixin.qq.com/s/ArOAhepWu08VmqNEOABoZg)
+
+如果你也有许多有趣的副业思路，可以和我一起分享。[通过 TG 联系我](https://t.me/zdcgbkjyfrewfg)。
 
 编辑器用 Neovim 多一点。如果你也喜欢使用 Nvim，可以一起交流。
 
