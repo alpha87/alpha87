@@ -16,4 +16,4 @@
 
 欢迎关注：**爱生活爱扣钉**。
 
-<img src="https://raw.githubusercontent.com/alpha87/thanks/master/searchcode.png" width="420" height="150"/>
+<img src="https://raw.githubusercontent.com/alpha87/thanks/master/searchcode.png" width="50%" height="50%"/>
