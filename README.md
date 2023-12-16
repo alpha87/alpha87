@@ -9,7 +9,7 @@
 - 中视频计划
 - 微信公众号
 
-想要零成本一起参与的可以看这篇文章：[如何利用红包封面打造副业？](https://mp.weixin.qq.com/s/ArOAhepWu08VmqNEOABoZg)
+想要零成本一起参与红包封面可以看这篇文章：[如何利用红包封面打造副业？](https://mp.weixin.qq.com/s/ArOAhepWu08VmqNEOABoZg)
 
 如果你也有许多有趣的副业思路，可以和我一起分享。[通过 TG 联系我](https://t.me/zdcgbkjyfrewfg)。
 
