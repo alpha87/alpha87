@@ -2,7 +2,12 @@
 
 热爱编程，但目前的工作与编程毫无关系。
 
-正在尝试各种副业，目前有做 [红包封面商城](https://shop1762101065.v.weidian.com/?userid=1762101065)。
+正在尝试各种副业，目前有做：
+
+- [红包封面商城](https://shop1762101065.v.weidian.com/?userid=1762101065)
+- 无人直播推流
+- 中视频计划
+- 微信公众号
 
 想要零成本一起参与的可以看这篇文章：[如何利用红包封面打造副业？](https://mp.weixin.qq.com/s/ArOAhepWu08VmqNEOABoZg)
 
