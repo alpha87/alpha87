@@ -4,12 +4,12 @@
 
 正在尝试各种副业，目前有做：
 
-- [红包封面商城](https://shop1762101065.v.weidian.com/?userid=1762101065)
-- 无人直播推流
-- 中视频计划
-- 微信公众号
+|项目|介绍|
+|:----:|:----:|
+|[红包封面商城](https://shop1762101065.v.weidian.com/?userid=1762101065)|[如何利用红包封面打造副业？](https://mp.weixin.qq.com/s/ArOAhepWu08VmqNEOABoZg)|
+|[购物平台优惠券赚取佣金](https://y9q9ryds.kuaizhan.com/80/2/p8504371920430b#/xiaopu/home?isVx=&isApp=&wxName=&inviteCode=8ZBVI8)|[利用淘宝京东等平台优惠券赚取佣金](https://mp.weixin.qq.com/s/oivK7fvBB5jX1oKWmj9ddg)|
 
-想要零成本一起参与红包封面可以看这篇文章：[如何利用红包封面打造副业？](https://mp.weixin.qq.com/s/ArOAhepWu08VmqNEOABoZg)
+------
 
 如果你也有许多有趣的副业思路，可以和我一起分享。[通过 TG 联系我](https://t.me/zdcgbkjyfrewfg)。
 
