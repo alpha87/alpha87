@@ -1,13 +1,11 @@
-**你好🖖，我是简讯！一枚野生程序员。**
+Hello！我是简讯。后端编程业余选手。
 
-热爱编程，但目前的工作与编程毫无关系。
+曾就职于北京某智能旅行规划公司，现就职于某国企。编辑器酷爱 Neovim，如果你也喜欢使用 Nvim，欢迎交流。公众号主要分享编程相关资讯，同时插播可实际上手的副业项目。
 
-正在尝试各种副业，目前有做：
-
-|项目|介绍|
-|:----:|:----:|
-|[红包封面商城](https://shop1762101065.v.weidian.com/?userid=1762101065)|[如何利用红包封面打造副业？](https://mp.weixin.qq.com/s/ArOAhepWu08VmqNEOABoZg)|
-|[购物平台优惠券赚取佣金](https://y9q9ryds.kuaizhan.com/80/2/p8504371920430b#/xiaopu/home?isVx=&isApp=&wxName=&inviteCode=8ZBVI8)|[利用淘宝京东等平台优惠券赚取佣金](https://mp.weixin.qq.com/s/oivK7fvBB5jX1oKWmj9ddg)|
+正在实践各种副业，目前有做：
+ - 红包封面商城
+ - [影视网盘话费充值](https://sqlm.vip35.cn)
+ - [外卖打车购物优惠券](https://sqlm.vip35.cn)
 
 ------
 
