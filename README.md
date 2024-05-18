@@ -17,7 +17,7 @@ Hello！我是简讯！后端编程业余选手。
 2. 流量卡办理建议，代理和运营相关内容
 3. 优惠充值影视会员，QQ系会员，正规慢快充电费话费等渠道、代理
 4. 听说程序员都喜欢玩红警？[下载链接](https://url92.ctfile.com/d/53552092-60100750-21b5f8?p=7233) **访问密码: 7233**
-5. 自用 20 年机场推荐：[✈️ 注册 HuTao](https://hutao.cloud/auth/register?code=ZXes)
+5. 自用 30 年机场推荐：[✈️ 注册花云机场](https://flowercloud.net/aff.php?aff=8603)
 
 ------
 
