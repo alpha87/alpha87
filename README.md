@@ -11,6 +11,8 @@ Hello！我是简讯！后端编程业余选手。
 3. [红包封面商城](https://k.youshop10.com/zovTyxFD)
 4. 微信公众号：**爱生活爱扣钉**
 
+<img src="https://s2.loli.net/2024/07/07/Gty76wMsPgFHizW.jpg" width="60%" height="60%"/>
+
 ## 能提供的资源
 
 1. Python 开发相关，办公自动化
